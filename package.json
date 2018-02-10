@@ -16,7 +16,6 @@
     "wmcc-node",
     "wmcc",
     "node",
-    "desktop",
     "transaction",
     "address",
     "network",
@@ -25,7 +24,8 @@
     "blockchain"
   ],
   "dependencies": {
-    "wmcc-core": "*"
+    "wmcc-core": "*",
+    "wmcc-credential": "*"
   },
   "license": "MIT"
 }
