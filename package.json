@@ -1,21 +1,22 @@
 {
   "name": "wmcc-node",
-  "version": "1.1.1-beta.1",
+  "version": "1.1.1-beta.2",
   "release": "30 Dec 2018",
   "productName": "wmcc-node",
-  "description": "WorldMobileCoin © WMCC Node",
+  "description": "WorldMobileCoin © WMCC Desktop Node",
   "homepage": "https://github.com/WorldMobileCoin/wmcc-node",
   "repository": "git://github.com/WorldMobileCoin/wmcc-node.git",
   "bugs": {
     "url": "https://github.com/WorldMobileCoin/wmcc-node/issues"
   },
   "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
-  "main": "./lib/wmcc-node.js",
+  "main": "./lib/index.js",
   "keywords": [
     "worldmobilecoin",
     "wmcc-node",
     "wmcc",
     "node",
+    "desktop",
     "transaction",
     "address",
     "network",
