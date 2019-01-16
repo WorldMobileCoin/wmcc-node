@@ -1,7 +1,7 @@
 {
   "name": "wmcc-node",
-  "version": "1.1.1-beta.4",
-  "release": "30 Dec 2018",
+  "version": "1.1.1-beta.5",
+  "release": "15 Jan 2019",
   "productName": "wmcc-node",
   "description": "WorldMobileCoin © WMCC Desktop Node",
   "homepage": "https://github.com/WorldMobileCoin/wmcc-node",
